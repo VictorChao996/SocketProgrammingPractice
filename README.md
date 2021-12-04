@@ -11,8 +11,8 @@ clientGUI.py: 一個簡單的視窗app 來執行client端的畫面
 
 ## 執行截圖
 Server端  
-<img src="https://gitHub.como/VictorChao996/SocketProgrammingPractice/blob/main/server_screenshot.png">  
+<img src="https://github.com/VictorChao996/SocketProgrammingPractice/blob/main/server.py">  
 client端  
-<img src="https://gitHub.como/VictorChao996/SocketProgrammingPractice/blob/main/client_screenshot.png">  
+<img src="https://gitHub.com/VictorChao996/SocketProgrammingPractice/blob/main/client_screenshot.png">  
 有GUI的client端  
-<img src="https://gitHub.como/VictorChao996/SocketProgrammingPractice/blob/main/clientGUI_screenshot.png">
+<img src="https://gitHub.com/VictorChao996/SocketProgrammingPractice/blob/main/clientGUI_screenshot.png">
