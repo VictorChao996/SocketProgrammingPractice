@@ -13,6 +13,6 @@ clientGUI.py: 一個簡單的視窗app 來執行client端的畫面
 Server端  
 <img src="https://github.com/VictorChao996/SocketProgrammingPractice/blob/main/server_screenshot.png" width=200 >  
 client端  
-<img src="https://gitHub.com/VictorChao996/SocketProgrammingPractice/blob/main/client_screenshot.png" width=200>  
+<img src="https://github.com/VictorChao996/SocketProgrammingPractice/blob/main/client_screenshot.png" width=200>  
 有GUI的client端  
-<img src="https://gitHub.com/VictorChao996/SocketProgrammingPractice/blob/main/clientGUI_screenshot.png" width=200>
+<img src="https://github.com/VictorChao996/SocketProgrammingPractice/blob/main/clientGUI_screenshot.png" width=200>
